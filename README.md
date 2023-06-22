@@ -1,2 +1,4 @@
-# SQL
-SQL Portfolio
+
+# Jennifer Sgroi's SQL Portfolio
+
+## Hello! Welcome to my SQL portfolio! This code repository contains examples of SQL I've written. Feel free to take a look and reach out if you have any questions: jennifersgroi01@gmail.com
